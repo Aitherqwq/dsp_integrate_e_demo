@@ -12,6 +12,7 @@
 
 ## 功能实现
 加噪、FIR滤波器滤波、维纳滤波器滤波、混响、变音。
+dsp_integrate_e_demo.mlapp是有GUI的主程序。包含的音频文件可以作为示例音频使用。
 
 ## 开源代码
 wiener_as函数由开源代码修改   Copyright (c) 2006 by Philipos C. Loizou, MIT License
